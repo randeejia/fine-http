@@ -1,6 +1,6 @@
 # fine_http
 
-A new Flutter package.
+A new HTTP library in dart language
 
 ## Getting Started
 
