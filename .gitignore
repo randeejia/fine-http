@@ -8,7 +8,6 @@ build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
-
-.idea
+/.idea
 *.iml
 .metadata
